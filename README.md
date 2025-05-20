@@ -1,1 +1,1 @@
-Meu primeiro projeto, fiz meu curriculo como landing page, utilizando as ferramentas de HtML CSS, JS e Bootstrap para trabalhar a visualiação, responsividade mesmo em aparelhos mobile.
+Meu primeiro projeto foi a criação do meu currículo como landing page, utilizando as ferramentas HTML, CSS, JS e Bootstrap para aprimorar a visualização e a responsividade, inclusive em dispositivos móveis.
